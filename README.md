@@ -82,4 +82,4 @@ The figure below shows the histogram of the transformed variable (z) along with 
 
 This visualization helps illustrate how well the estimated model approximates the underlying distribution of the transformed air quality data.
 
-![PDF Visualization](PDF.png)
+![PDF Visualization](plot.png)
